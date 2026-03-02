@@ -1,70 +1,77 @@
-CPI Inflation Analysis (2012–2022)
-Project Overview
+## CPI Inflation Analysis (2012–2022)
 
-This project analyzes Consumer Price Index (CPI) inflation trends from 2012 to 2022 using Microsoft Excel. The analysis focuses on understanding how inflation has changed over time by examining CPI index values and calculating inflation rates across different years.
+## Overview
 
-The project uses data cleaning, calculations, and visualizations in Excel to identify patterns in inflation and provide insights into changes in consumer price levels.
+This project analyzes Consumer Price Index (CPI) data from 2012 to 2022 to understand inflation trends in India. The dataset, sourced from the Ministry of Statistics and Programme Implementation (MOSPI), was analyzed using Microsoft Excel to calculate inflation rates and visualize changes in price levels over time.
 
-Objectives
+The analysis helps identify patterns in inflation and provides insights into how consumer prices have evolved during the study period.
 
-Analyze inflation trends between 2012 and 2022
+## Objectives
 
-Calculate year-wise inflation rates using CPI index values
+Analyze inflation trends in India between 2012 and 2022
+
+Calculate year-wise inflation rates using CPI values
 
 Identify periods of high and low inflation
 
-Visualize inflation trends using charts and graphs in Excel
+Visualize inflation trends using charts and graphs
 
-Dataset Description
+Understand long-term changes in consumer price levels
 
-The dataset contains Consumer Price Index (CPI) values from 2012 to 2022, representing the change in the average price level of goods and services over time.
+## Scope of Work
 
-Key variables in the dataset include:
+The project focuses on data organization, inflation calculation, and trend analysis using CPI data. The work involves preparing the dataset, calculating inflation rates, and visualizing the results to highlight inflation patterns.
 
-Year – Time period from 2012 to 2022
+## Data Cleaning & Preparation
 
-CPI Index Value – Measure of price level changes
+The following data preparation steps were performed:
 
-Inflation Rate – Percentage change in CPI compared to the previous year
+Organization of CPI values by year
 
-The dataset was cleaned and organized in Microsoft Excel before performing calculations and visual analysis.
+Verification and correction of inconsistent or missing entries
 
-Tools Used
+Calculation of inflation rate using percentage change formulas
 
-Microsoft Excel
+Formatting data for clear visualization and analysis
 
-Data cleaning and organization
-
-Inflation rate calculation using formulas
-
-Chart creation for trend analysis
-
-Analysis Performed
+## Analysis Performed
 
 Year-wise analysis of CPI index values
 
-Calculation of inflation rate using percentage change
+Calculation of annual inflation rates
 
-Visualization of inflation trends using line charts
+Visualization of inflation trends from 2012 to 2022
 
 Identification of years with significant inflation changes
 
-Key Insights
+## Key Insights
 
-CPI values show variation across different years, reflecting changes in price levels.
+CPI values show variation across different years, reflecting economic conditions
 
-Certain years experienced higher inflation growth compared to others.
+Certain years experienced higher inflation growth compared to others
 
-Skills Demonstrated
+Trend analysis highlights long-term inflation patterns in the Indian economy
 
-Data Cleaning in Excel
+## Business Impact
 
-Data Analysis
+Provides insights into changes in consumer purchasing power
 
-Inflation Rate Calculation
+Helps understand inflation trends affecting economic planning
 
-Data Visualization
+Supports economic and financial analysis using official statistical data
 
-Economic Data Interpretation
+Demonstrates practical application of data analysis using Excel
 
-Trend visualization helps understand long-term inflation patterns between 2012 and 2022.
+## Tech Stack
+
+Microsoft Excel (data analysis and visualization)
+
+## How to Use
+
+Open the Excel dataset containing CPI data
+
+Review the calculated inflation rate columns
+
+Explore charts and visualizations showing inflation trends
+
+Analyze year-wise changes in CPI values
